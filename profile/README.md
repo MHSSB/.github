@@ -1,12 +1,7 @@
-## Hi there 👋
+![MHSSB Cover](https://i.ibb.co/vzmvTds/mhssb-cover.png)
 
-<!--
+# 🤖 MHSSB
 
-**Here are some ideas to get you started:**
+MHSSB is the organization behind the Discord bot "Minehut Server Stats".
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Minehut Server Stats is a Discord bot which allows users to gather information/data from a Discord command, but without the hassle of joining a server.
